@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03e42667-bff0-4b79-be11-ab325044d2e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuscarElemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ColumnasVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrizIdentidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrizMarco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrizSimetrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrizTranspuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumarFilasYColumnas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumarMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransponerMatrices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IVfq20ANHcinvdUCvC15IEQM4C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +43,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/u198840/Documents/Java/Matrices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,5 +62,21 @@
       <updated>1670271860086</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringFor.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumarFilasYColumnas.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
